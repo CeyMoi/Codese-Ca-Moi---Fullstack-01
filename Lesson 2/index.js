@@ -47,3 +47,7 @@ function paging(array, so_phan_tu_1_trang){
 var result = paging([1,2,3,4,5,6,7,8], 3);
 
 console.log(result);
+
+
+///test
+
